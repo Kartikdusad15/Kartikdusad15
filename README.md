@@ -21,11 +21,11 @@
 - 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | Figma
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kumawatlalit912&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kartikdusad15&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
 
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumawatlalit912&include_all_commits=true&count_private=true&show_icons=true&theme=jolly" alt="lalit's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kartikdusad15&include_all_commits=true&count_private=true&show_icons=true&theme=jolly" alt="Kartik's Github Stats">
 
 </br>
 
@@ -45,5 +45,5 @@
 &nbsp; <a href="mailto:kumawatlalit912@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [kumawatlalit912](https://github.com/kumawatlalit912)
+
 
